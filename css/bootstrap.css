@@ -236,9 +236,6 @@ th {
     orphans: 3;
     widows: 3;
   }
-  .comcom_selestat {
-    float: left;
-  }  
   ul {
     padding: 0
   }
