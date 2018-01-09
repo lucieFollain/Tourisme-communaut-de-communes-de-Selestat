@@ -235,10 +235,10 @@ th {
   h3 {
     orphans: 3;
     widows: 3;
+    text-indent:50px;
   }
   ul {
     padding: 1em;
-    text-indent:0px
   }
   h2,
   h3 {
