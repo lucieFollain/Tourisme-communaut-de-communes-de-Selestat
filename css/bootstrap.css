@@ -240,7 +240,8 @@ th {
     float: left;
   }  
   ul {
-    style="margin-left:40px"
+    style="margin-left:40px";
+    padding: 0
   }
   h2,
   h3 {
