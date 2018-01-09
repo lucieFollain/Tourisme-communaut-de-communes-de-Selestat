@@ -240,8 +240,9 @@ th {
   ul {
     padding: 1em;
   }
-  .ssMenu {
+  .communes {
     margin-right:20px
+    padding: 0
   }
   h2,
   h3 {
