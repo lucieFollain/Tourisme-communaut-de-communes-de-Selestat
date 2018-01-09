@@ -237,7 +237,7 @@ th {
     widows: 3;
   }
   ul {
-    padding: 0;
+    padding: 1em;
     text-indent:0px
   }
   h2,
