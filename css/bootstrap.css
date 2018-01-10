@@ -65,6 +65,7 @@ dfn {
 h1 {
   align:center
   font-size: 2em;
+  font-weight: bold
 }
 mark {
   color: #000;
